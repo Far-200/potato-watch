@@ -1,10 +1,12 @@
-# 🥔 PotatoWatch
-
 <p align="center">
   <img src="assets/logo.png" alt="PotatoWatch Logo" width="220">
 </p>
 
-> A local-first X engagement copilot that scores, ranks, remembers, and eventually helps draft replies worth posting.
+<h1 align="center">🥔 PotatoWatch</h1>
+
+<p align="center">
+  A local-first X engagement copilot that scores, ranks, remembers, and helps surface replies worth posting.
+</p>
 
 PotatoWatch is an experimental Python project built to reduce the amount of manual scrolling involved in finding worthwhile conversations on X.
 
