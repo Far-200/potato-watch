@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+potatowatch_venv/
+
+# Environment
+.env
+
+# Local data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
