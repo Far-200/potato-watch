@@ -1,4 +1,13 @@
+from enum import Enum
+
 from pydantic import BaseModel
+
+
+class CandidateStatus(str, Enum):
+    NEW = "NEW"
+    REPLIED = "REPLIED"
+    SKIPPED = "SKIPPED"
+    IGNORED = "IGNORED"
 
 
 class CandidatePost(BaseModel):
